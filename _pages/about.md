@@ -1,4 +1,13 @@
-## Welcome to My Page
+---
+layout: single
+title: "Welcome to My Page"
+permalink: /
+comments: true
+author_profile: true
+toc: true
+toc_label: "Table of Contents"
+toc_sticky: false
+---
 
 This repo contains files to my projects and course work. 
 
