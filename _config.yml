@@ -103,15 +103,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ping Lin"
   avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Master of Science in Quantitative Finance and Risk Management | University of Michigan"
   location         : "Ann Arbor, Michigan"
-  email            : #email@umich.edu
+  email            : "ppinglin@umich.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:email@umich.edu"
+      url: "mailto:ppinglin@umich.edu"
     - label: "University Profile"
       icon: "fas fa-fw fa-link"
       url: "https://lsa.umich.edu/math/people/quant/2018.html"
