@@ -4,9 +4,9 @@ This repo contains files to my projects and course work.
 
 ### Contact
 
-Mail: email@umich.edu
+Mail: ppinglin@umich.edu
 
-Tel: (734) 555-5555
+Tel: (347)-213-9517
 
 ### About me
 I am a First-Year Masters Student at the University of Michigan
