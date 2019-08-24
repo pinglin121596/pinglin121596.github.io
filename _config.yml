@@ -107,7 +107,7 @@ author:
   avatar           : "/assets/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Master of Science in Quantitative Finance and Risk Management | University of Michigan"
   location         : "Ann Arbor, Michigan"
-  email            : "ppinglin@umich.edu"
+  email            : #ppinglin@umich.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -123,10 +123,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/pinglin121596"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/ping-lin-130064114/"
 
 # Site Footer
 footer:
